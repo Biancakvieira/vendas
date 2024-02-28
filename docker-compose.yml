@@ -1,0 +1,40 @@
+version: '3.8'
+services:
+  postgres:
+    image: postgres:16
+    ports:
+      - "5436:5432"
+    environment:
+      POSTGRES_PASSWORD: banco
+      POSTGRES_DB: postgres
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
